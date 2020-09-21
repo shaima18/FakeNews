@@ -1,0 +1,2 @@
+# FakeNews
+ASTU Internship Project
